@@ -1,6 +1,6 @@
 # 🐍 بازی Snake با React
 
-بازی کلاسیک Snake پیاده‌سازی شده با React و Canvas API. این پروژه در دوره کارآموزی فرانت‌اند در **خانه رباتیک کمان** توسعه داده شده است.
+بازی کلاسیک Snake پیاده‌سازی شده با React. این پروژه در دوره کارآموزی فرانت‌اند در **خانه رباتیک کمان** توسعه داده شده است.
 
 ## ✨ ویژگی‌ها
 
@@ -16,7 +16,7 @@
 | دسته | تکنولوژی | دلیل استفاده |
 |------|----------|--------------|
 | Framework | React + Vite | توسعه سریع و HMR |
-| State Management | React Hooks | مدیریت state بازی با useState و useRef |
+| State Management | React Hooks | مدیریت state بازی با useState و useCallback |
 | Game Loop | requestAnimationFrame | حلقه بازی با فریم‌ریت کنترل شده |
 | Styling | TailwindCSS | طراحی رابط کاربری |
 | Code Quality | ESLint + Prettier | یکپارچگی کد |
@@ -31,7 +31,7 @@
 
 # 🐍 Snake Game in React
 
-Classic Snake game built with React and Canvas API. This project was developed during my frontend internship at **Kaman Robotics House**.
+Classic Snake game built with React. This project was developed during my frontend internship at **Kamaan Robotics House**.
 
 ![Snake Game Demo](./screenshots/gameplay.gif)
 
